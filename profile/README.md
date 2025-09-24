@@ -1,7 +1,7 @@
 # QRecall Mac – Efficient Data Backup and Archiving for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/24106/l/qrecall-logo.png?v=1669703799" alt="QRecall Logo" width="256" height="256">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/dd/34/f8dd34c2-565f-76c5-f2b4-4501d950b37b/AppIcon-0-0-85-220-0-5-0-2x.png/1200x630bb.png" alt="QRecall Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
